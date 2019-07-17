@@ -1,0 +1,7 @@
+//decalre the var
+var word
+
+//assign a value to the var
+word = 'bird'
+
+console.log(word) //'bird'
